@@ -1,4 +1,4 @@
-Jan, 19, Informatica, Estudiant
-Pol, 18, Informatica, Estudiant
-Bruno, 18, Informatica, Estudiant
-Biel, 18, Informatica, Estudiant
+Jan, 19, Informatica, Estudiant, Halloweb | Projecte Angles | Projecte Programació, Visual
+Pol, 18, Informatica, Estudiant, Halloweb | Projecte Angles | Projecte Programació, Visual
+Bruno, 18, Informatica, Estudiant, Projecte HTML | Projecte Angles | Projecte Programació, Visual
+Biel, 18, Informatica, Estudiant, Projecte Entorns | Projecte Angles | Projecte Programació, Visual
