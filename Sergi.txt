@@ -1,4 +1,4 @@
-Jan
-Pol
-Bruno
-Biel
+Jan, 19, Informatica, Estudiant
+Pol, 18, Informatica, Estudiant
+Bruno, 18, Informatica, Estudiant
+Biel, 18, Informatica, Estudiant
